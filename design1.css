@@ -9,14 +9,5 @@ h1 {
     color: #00796b;
     text-align: center;
     margin-top: 20%;
-}
-
-p {
-    color: #004d40;
-    text-align: center;
-    font-size: 1.2em;
-}
-
-button{
-    background-color: #e0f7fa;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
