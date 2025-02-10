@@ -10,3 +10,9 @@ h1 {
     text-align: center;
     margin-top: 20%;
 }
+
+p {
+    color: #004d40;
+    text-align: center;
+    font-size: 1.2em;
+}
